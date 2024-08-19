@@ -1,2 +1,2 @@
 # FoldChange
-a python script for analysis of RT-qPCR results
+A Python script for analyzing RT-qPCR results
